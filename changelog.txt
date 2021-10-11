@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.7
+Date: ????
+  Bugfixes:
+    - Fixed that other mods' modifications to the physical and laser damage research were being overwritten
+---------------------------------------------------------------------------------------------------
 Version: 1.1.6
 Date: 2021-09-27
   Bugfixes:
