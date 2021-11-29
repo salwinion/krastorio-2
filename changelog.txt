@@ -3,6 +3,7 @@ Version: 1.1.7
 Date: ????
   Bugfixes:
     - Fixed that other mods' modifications to the physical and laser damage research were being overwritten
+    - Fixed extra AAI vehicles grids disappearing when under AI control (#29)
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.6
 Date: 2021-09-27
